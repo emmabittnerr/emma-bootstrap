@@ -1,4 +1,11 @@
-# ICJ Bootstrap Template
+# Emma's Bootstrap Project
+
+By Emma Bittner, Intro Coding for Journalists class
+
+This repo is a class assignment to learn git. It is due March 26, 2021.
+
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
